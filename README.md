@@ -79,9 +79,9 @@ Students will be encouraged to use either MS Excel, or SPSS software package, or
 
 ORAL PRESENTATIONS OF DRAFT PROPOSALS
 
-RESOURCES
+# 2. RESOURCES
 
-VIDEOS
+## 2.1 VIDEOS
 
 These are video Links from www.YouTube.com, which will assist you in writing up your Research Project.
 
@@ -93,7 +93,7 @@ These are video Links from www.YouTube.com, which will assist you in writing up 
 
 [Downloading Mendeley DeskTop](https://www.mendeley.com/download-mendeley-desktop/mac/instructions/)
 
-EBOOKS
+### 2.2 EBOOKS
 
 Designing a Research Project.epub
 
