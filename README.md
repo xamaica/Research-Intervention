@@ -1,12 +1,12 @@
 # Research-Intervention
-Research methodology for post-graduate students
+## Research methodology for post-graduate students
 
-22 Feb 2016 - 26 Feb 2016
+## 22 Feb 2016 - 26 Feb 2016
 
-Dissertation Writing WORKSHOP/SEMINAR for MTech Research Students  
+# Dissertation Writing WORKSHOP/SEMINAR for MTech Research Students  
 
 
-Disesertation Writing Workshop/Seminar – The Department of Operations Managementes offers a 5-day series of writing workshops/seminars for MTech Research students – YOU ARE ENCOURAGED TO ATTEND.
+### Disesertation Writing Workshop/Seminar – The Department of Operations Managementes offers a 5-day series of writing workshops/seminars for MTech Research students – YOU ARE ENCOURAGED TO ATTEND.
 
 
 Focusing on the interplay between writing and research, this 5-day Workshop/Seminar will help you to develop the skills that you will need to manage and write up your dissertation project. To get the most out of these sessions, be prepared to bring in samples of your own dissertation (Proposal) draft for workshop activities.
@@ -21,42 +21,63 @@ The individual assignment tasks are based on students’ own individual proposal
 Students will be encouraged to use either MS Excel, or SPSS software package, or both for data analysis purposes, and Mendeley for Reference Management.
 
 
-1.	Seminar Schedule and Structure
+# 1.	Seminar Schedule and Structure
 
-DAY 1:    Monday, Feb.  22, 2016 
+## DAY 1:    Monday, Feb.  22, 2016 
 
-1A Morning:   (I) The research Proposal     (II) The Introduction (III) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.11 - 29
+### 1A Morning: 
 
-1B Afternoon:  	(I) Conceptual design       
+(I) The research Proposal     (II) The Introduction (III) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.11 - 29
 
+### 1B Afternoon: 
 
-DAY 2:    Tuesday,  Feb. 23, 2016 
-
-2A Morning:     (I) Research design   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.30 - 73
-
-
-2B Afternoon: 	(I) Research framework  (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.74 - 106
+(I) Conceptual design       
 
 
-DAY 3:    Wednesday,  24 Feb. 2016	
+## DAY 2:    Tuesday,  Feb. 23, 2016 
 
-3A Morning:  (I) Research questions  (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.107 - 154
+### 2A Morning:     
 
-3B Afternoon:	(I) Defining concepts  (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.155 - 187
-
-
-DAY 4:    Thursday,  25, Feb. 2016
-
-4A Morning:    (I) Research strategies   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.187 - 253
-
-4B Afternoon:	(I) Research material   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.254 - 303
+(I) Research design   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.30 - 73
 
 
+### 2B Afternoon: 	
 
-DAY 5: Friday, 26,  Feb. 2016 
-5A Morning:    (I) Research Planning   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.304 - 337
+(I) Research framework  (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.74 - 106
 
-5B Afternoon:  ORAL PRESENTATIONS OF DRAFT PROPOSALS
+
+## DAY 3:    Wednesday,  24 Feb. 2016	
+
+### 3A Morning:  
+
+(I) Research questions  (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.107 - 154
+
+### 3B Afternoon:	
+
+(I) Defining concepts  (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.155 - 187
+
+
+## DAY 4:    Thursday,  25, Feb. 2016
+
+### 4A Morning:    
+
+(I) Research strategies   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.187 - 253
+
+### 4B Afternoon:	
+
+(I) Research material   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.254 - 303
+
+
+
+## DAY 5: Friday, 26,  Feb. 2016 
+
+### 5A Morning:    
+
+(I) Research Planning   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.304 - 337
+
+### 5B Afternoon:  
+
+ORAL PRESENTATIONS OF DRAFT PROPOSALS
 
 RESOURCES
 
