@@ -56,7 +56,7 @@ DAY 4:    Thursday,  25, Feb. 2016
 DAY 5: Friday, 26,  Feb. 2016 
 5A Morning:    (I) Research Planning   (II) Preparatory reading: Piet Verschuren & Hans Doorewaard, pp.304 - 337
 
-5B Afternoon:  PRESENTATIONS OF DRAFT PROPOSALS
+5B Afternoon:  ORAL PRESENTATIONS OF DRAFT PROPOSALS
 
 
 
