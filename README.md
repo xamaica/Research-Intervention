@@ -1,7 +1,10 @@
 # Research-Intervention
 Research methodology for post-graduate students
+
 22 Feb 2016 - 26 Feb 2016
+
 Dissertation Writing WORKSHOP/SEMINAR for MTech Research Students  
+
 Disesertation Writing Workshop/Seminar – The Department of Operations Managementes offers a 5-day series of writing workshops/seminars for MTech Research students – YOU ARE ENCOURAGED TO ATTEND.
 Focusing on the interplay between writing and research, this 5-day Workshop/Seminar will help you to develop the skills that you will need to manage and write up your dissertation project. To get the most out of these sessions, be prepared to bring in samples of your own dissertation (Proposal) draft for workshop activities.
 The aim of this Seminar is to expose students to the scientific method and quantitative approaches to research design and analysis of primary data. Students are given guidance in the writing of syndicate research proposals and research reports and given extensive feedback on their individual proposals.
