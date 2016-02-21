@@ -58,5 +58,30 @@ DAY 5: Friday, 26,  Feb. 2016
 
 5B Afternoon:  ORAL PRESENTATIONS OF DRAFT PROPOSALS
 
+RESOURCES
+
+VIDEOS
+
+These are video Links from www.YouTube.com, which will assist you in writing up your Research Project.
+
+[Getting Started with Mendeley](https://www.youtube.com/watch?v=Gv6_HuCYExM)
+
+[How to Write a Great Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA&ebc=ANyPxKoc8aSSWOhgoSEqbTKAydk_GFC2m0T_bM9jruY69vWCDP9YprF6uRXuX4k_fBIpvvHMi7xh2H7rTMuiy77SiDZ09N9XYA)
+
+[Mendeley Tutorial](https://www.youtube.com/watch?v=xLtk6n8cFdk#t=2024.184413)
+
+[Downloading Mendeley DeskTop](https://www.mendeley.com/download-mendeley-desktop/mac/instructions/)
+
+EBOOKS
+
+Designing a Research Project.epub
+
+Plagiarism.ppt
+
+FBReaderSetup-0.12.10.exe
+
+Research Strategies.pdf
+
+Research Success.pdf
 
 
